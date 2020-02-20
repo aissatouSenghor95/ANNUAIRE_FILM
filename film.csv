@@ -1,13 +1,1 @@
-id,titre,description,annee_sortie,genre,realisateur
-1,Casa de Papel,cambriolage de la banque fabrique monaie,2020/05/09,action,Netflix
-2,Avatar,hybrides,2009/12/16,Action Aventure Fantastique Science-Fiction,James Cameron
-3,Harry Potter,le Tournoi des trois sorciers,2005/11/30,Aventure Fantastique Familial,Mike Newell
-4,terminator,le rebot humain ,1984/12/03,fiction,James Cameron
-5,chaka zoulou,la legende du roi zoulou,1986/04/05,action,William C. Faure
-6,kounta kinte,histoire d'un esclave déporté aux USA,1977/03/09,roman,Alex Haley
-7,Spider-Man,Peter Parker a retrouvé un équilibre de vie et il veut se marier avec Mary Jane,2007/09/01,Fantastique Action Aventure,Sam Raimi
-8,X-Men,dans un camp de concentration,2001/08/16,Aventure Action Science-fiction,Bryan Singer
-9,Django Unchained,Ils ont pris sa liberté Il va tout leur prendre,2013/01/15,Aventure Action Science-fiction,Quentin Tarantino
-10,Titanic,Une histoire reelle Le paquebot le plus grand et le plus moderne du monde,1912/04/10,Drame Romance Thriller,James Cameron
-11,The Avenges,Lorsque la sécurité et l’équilibre de la planète,2012/04/25,Science fiction Action Aventure,Joss Whedon
-12,Intouchables,A la suite d’un accident de parapente,2011/10/02,Drame Comedie,Eric Toledao
+id_film;Titre;Description;Annee_Sortie;id_genre;Realisateur
